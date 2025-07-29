@@ -1,4 +1,4 @@
-== Color Design Sytems ==
+== Color Design System ==
 
 Contributors: Birgit Pauli-Haack
 Requires at least: 6.8
