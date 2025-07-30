@@ -11,9 +11,9 @@
             "spacing":{
                 "padding": {
                     "top": "6px",
-                    "right": "2px",
+                    "right": "6px",
                     "bottom": "6px",
-                    "left": "2px"
+                    "left": "6px"
                 } 
         }      
     }
